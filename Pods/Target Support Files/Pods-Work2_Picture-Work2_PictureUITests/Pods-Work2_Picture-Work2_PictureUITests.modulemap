@@ -1,0 +1,6 @@
+framework module Pods_Work2_Picture_Work2_PictureUITests {
+  umbrella header "Pods-Work2_Picture-Work2_PictureUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
